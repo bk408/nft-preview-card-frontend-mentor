@@ -51,4 +51,3 @@ These areas will enhance my skills and contribute to project success. I'm commit
 
 - Website - [Bhavya Khatri](https://bhavya-khatri-portfolio.vercel.app/)
 - Frontend Mentor - [@bk408](https://www.frontendmentor.io/profile/bk408)
-  **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
